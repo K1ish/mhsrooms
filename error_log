@@ -1,2 +1,8 @@
 [21-Sep-2018 00:44:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/reggie/public_html/dev/mhsrooms/inc/functions.php on line 6
 [21-Sep-2018 00:44:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/reggie/public_html/dev/mhsrooms/inc/functions.php on line 6
+[21-Sep-2018 02:26:29 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /home/reggie/public_html/dev/mhsrooms/inc/functions.php on line 38
+[21-Sep-2018 02:26:29 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/reggie/public_html/dev/mhsrooms/inc/functions.php on line 49
+[21-Sep-2018 02:27:06 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/reggie/public_html/dev/mhsrooms/index.php on line 43
+[21-Sep-2018 02:27:07 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/reggie/public_html/dev/mhsrooms/index.php on line 43
+[21-Sep-2018 02:34:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reggie/public_html/dev/mhsrooms/index.php on line 87
+[21-Sep-2018 02:38:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reggie/public_html/dev/mhsrooms/index.php on line 87
